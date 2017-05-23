@@ -33,7 +33,7 @@
     <ows:ProviderName>
       Nicolas Luna
     </ows:ProviderName>
-    <ows:ProviderSite xlink:href="http://localhost"/>
+    <ows:ProviderSite xlink:href="https://nicolasluna88.github.io"/>
   </ows:ServiceProvider>
   <Contents>
     <Layer>
